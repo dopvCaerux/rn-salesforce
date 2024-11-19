@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.test.commufa_test_ap.login</string>
+	<string name="app_name">CommufaTest</string>
+	<string name="app_package">com.test.commufa_test_ap</string>
+</resources>

@@ -1,0 +1,6 @@
+module Pods_CommufaTest {
+  umbrella header "Pods-CommufaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
